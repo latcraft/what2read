@@ -34,3 +34,4 @@
 
 [**The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win** by Gene Kim, Kevin Behr and George Spafford](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509) (improving IT organizations) 
 
+[**Management 3.0: Leading Agile Developers, Developing Agile Leaders** by Juren Appelo](http://www.amazon.co.uk/Management-3-0-Leading-Developers-Developing-ebook/dp/B004ISL6JY/ref=sr_1_1?ie=UTF8&qid=1420628609&sr=8-1&keywords=Management+3.0) (management techniques) 
