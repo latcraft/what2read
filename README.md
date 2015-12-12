@@ -1,3 +1,5 @@
+[**The Software Craftsman** by Sandro Mancuso](http://www.amazon.com/The-Software-Craftsman-Professionalism-Pragmatism/dp/0134052501)  (professionalism in software development)
+
 [**Clean Code: A Handbook of Agile Software Craftsmanship** by Robert Martin ](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (coding, clean code, craftsmanship)
 
 [**The Clean Coder: A Code of Conduct for Professional Programmers** by Robert Martin](http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) (professionalism in software development)
