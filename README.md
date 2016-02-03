@@ -1,3 +1,5 @@
+[**Soft Skills: The software developer's life manual** by John Sonmez(http://www.amazon.com/gp/product/1617292397?keywords=john%20sonmez&qid=1454505305&ref_=sr_1_1&s=books&sr=1-1) (soft skills, self-marketing, life yacks, career advices)
+
 [**The Software Craftsman** by Sandro Mancuso](http://www.amazon.com/The-Software-Craftsman-Professionalism-Pragmatism/dp/0134052501)  (professionalism in software development)
 
 [**Clean Code: A Handbook of Agile Software Craftsmanship** by Robert Martin ](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (coding, clean code, craftsmanship)
